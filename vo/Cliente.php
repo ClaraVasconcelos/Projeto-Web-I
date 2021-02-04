@@ -7,6 +7,7 @@ class Cliente {
    private $login;
    private $senha;
    private $idEndereco;
+   private $email;
    
    function getId_cliente() {
        return $this->id_cliente;
@@ -47,7 +48,14 @@ class Cliente {
        $this->idEndereco = $idEndereco;
    }
 
-   
+   function getEmail(){
+       return $this->email;
+   }
+   function setEmail($email){
+       $this->email = $email;
+   }
+
+
    function toString(){
        return $id_cliente;
    }

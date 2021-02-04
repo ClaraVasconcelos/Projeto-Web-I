@@ -3,12 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Xamp/htdocs/ProjetoWeb/vo/Cliente_j.php</file>
             <file>file:/C:/Xamp/htdocs/ProjetoWeb/vo/Endereco.php</file>
-            <file>file:/C:/Xamp/htdocs/ProjetoWeb/vo/Cliente_f.php</file>
-            <file>file:/C:/Xamp/htdocs/ProjetoWeb/vo/Compra.php</file>
-            <file>file:/C:/Xamp/htdocs/ProjetoWeb/vo/Produto.php</file>
-            <file>file:/C:/Xamp/htdocs/ProjetoWeb/vo/Cliente.php</file>
+            <file>file:/C:/Xamp/htdocs/ProjetoWeb/index.php</file>
+            <file>file:/C:/Xamp/htdocs/ProjetoWeb/telas/CadastrarProduto.php</file>
+            <file>file:/C:/Xamp/htdocs/ProjetoWeb/telas/CadastrarCliente.php</file>
         </group>
     </open-files>
 </project-private>
